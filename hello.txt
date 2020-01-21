@@ -1,3 +1,5 @@
 Hello World!
 
 New line
+
+This line is only in new-feature branch
